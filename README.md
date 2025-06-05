@@ -60,21 +60,6 @@
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=anandsingh&theme=radical" alt="Activity Graph" />
-</p>
-
-
----
-
-## 🌐 Portfolio (Coming Soon)
-
-🔗 [Visit My Website](https://your-portfolio-link.com) *(Coming soon)*
-
----
-
 ## 📫 Let's Connect
 
 <p align="left">
@@ -83,6 +68,9 @@
   </a>
   <a href="mailto:your.email@example.com" target="blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+   <a href="https://medium.com/@anandmehta300p" target="blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
 </p>
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anand Singh</h1>
-<h3 align="center">B.Tech Student | Aspiring AI Engineer  | AI  Enthusiast | Open Source Explorer</h3>
+<h3 align="center">B.Tech Student | Aspiring AI Engineer | AI Enthusiast | Open Source Explorer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anandsingh&label=Profile%20views&color=0e75b6&style=flat" alt="anandsingh" />
@@ -9,16 +9,17 @@
 
 ## 🧠 About Me
 
-- 🎓 I’m a B.Tech student passionate about **Data Science**, **Artificial Intelligence**, and **Mixed Reality**.
-- 🔍 Currently exploring new era AI
-- 💡 I love solving real-world problems with code and research.
+- 🎓 B.Tech student deeply passionate about **Data Science**, **Artificial Intelligence**, and **Mixed Reality**
+- 🚀 Actively exploring the latest in AI and new era technologies
+- 💡 Love building solutions for real-world challenges through code and research
+- 💬 Always open to collaboration and learning opportunities!
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
@@ -34,7 +35,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=anandsingh&theme=radical&no-frame=true&row=1&column=6" />
@@ -60,16 +61,16 @@
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/anandsingh1290" target="blank">
+  <a href="https://linkedin.com/in/anandsingh1290" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@example.com" target="blank">
+  <a href="mailto:your.email@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-   <a href="https://medium.com/@anandmehta300p" target="blank">
+  <a href="https://medium.com/@anandmehta300p" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
 </p>
@@ -78,8 +79,10 @@
 
 ## 🎉 Fun Fact
 
-> I believe that **technology with a purpose** can revolutionize the way we teach, learn, farm, and live.
+> I believe technology with a purpose can revolutionize the way we teach, learn, farm, and live.
 
 ---
 
-
+<!--
+Feel free to reach out for project collaborations, internships, or just to connect!
+-->
